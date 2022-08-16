@@ -26,8 +26,8 @@ class circularLinkedList:
                break
 my_list = circularLinkedList()
 print("Elements are added to the list ")
-my_list.add_data (56)
-my_list.add_data (78)
-my_list.add_data (12)
+my_list.add_data (22)
+my_list.add_data (33)
+my_list.add_data (44)
 print("The data is : ")
 my_list.print_it()
